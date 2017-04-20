@@ -4,7 +4,8 @@
 # Bash completion for dcfldd
 
 dcfldd did not come with a bash completion file, so i created one based on the dd
-standard file.
+standard file. It comes with 'smart' keyword expansion for the options 
+hash, hashconv, status, and sizeprobe.
 
 # Installation
 
